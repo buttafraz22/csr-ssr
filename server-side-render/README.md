@@ -5,7 +5,7 @@
 3. Open Terminal and Run:
 
 ```shell
-    npm init vite=plugin-ssr@latest
+    npm init vite-plugin-ssr@latest
 ```
 4. Copy components Folder.
 5. Copy index.css and data.js to pages.index folder.
